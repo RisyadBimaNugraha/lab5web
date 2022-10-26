@@ -7,9 +7,8 @@ NIM     : 312110039
 KELAS   : TI.21.B1
 
 # Langkah-Langkah Praktikum
-# Membuat Dokumen HTML Pengenalan Javascript
+<b>Membuat Dokumen HTML Pengenalan Javascript<b>
 ![img](ss/ss1.png)
-# LAPORAN PRAKTIKUM
 1. Penggunaan Alert
 ![img](ss/ss2.png)
 2. Penggunaan Method
